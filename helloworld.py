@@ -1,7 +1,7 @@
 """
 helloworld.py
-Author: <Tairan(Ryan) Ji>
-Credit: <None>
+Author: Tairan(Ryan) Ji
+Credit: None
 
 Assignment:
 
